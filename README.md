@@ -1,6 +1,6 @@
 # BuddyAndMe
 
-An Android application (Java + XML) built for Assignment 2 — Android Application Development.
+An Android application (Java + XML) built for Assignment 2 — Mobile Application Development.
 It implements a full "common screens" flow: Welcome → Login → Register / Forgot Password →
 Reset Password → Dashboard → Profile → Logout.
 
