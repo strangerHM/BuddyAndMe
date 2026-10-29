@@ -1,5 +1,6 @@
 package com.example.buddyandme; // your actual package
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.widget.Button;
@@ -39,7 +40,10 @@ public class LoginActivity extends AppCompatActivity {
             return;
         }
 
-        // TODO: replace with real credential check
-        Toast.makeText(this, "Login successful", Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(LoginActivity.this, DashboardActivity.class);
+        intent.putExtra("USER_NAME", email); // swap in real name once you store one
+        intent.putExtra("USER_EMAIL", email);
+        startActivity(intent);
+        finish();
     }
 }

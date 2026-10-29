@@ -11,6 +11,19 @@
     <string name="hint_confirm_password">Confirm New Password</string>
     <string name="btn_submit">Submit</string>
     <string name="forgot_title">Forgot Password?</string>
-    <string name="forgot_subtitle">Don't worry! Just enter your email address and we'll send you instructions to reset your password.</string>
+    <string name="forgot_subtitle">"Don't worry! Just enter your email address and we'll send you instructions to reset your password."</string>
     <string name="hint_email">Email</string>
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="module_find_location">Find Location</string>
+    <string name="module_saved_places">Saved Places</string>
+    <string name="module_map_view">Map View</string>
+    <string name="module_search">Search</string>
+    <string name="module_settings">Settings</string>
+    <string name="module_clicked">%1$s clicked</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="module_profile">Profile</string>
+    <string name="profile_title">User Profile</string>
+    <string name="label_name">Name:</string>
+    <string name="label_email">Email:</string>
+    <string name="btn_logout">Logout</string>
 </resources>

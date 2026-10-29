@@ -5,4 +5,6 @@
     <color name="colorBackground">#FFFFFFFF</color>
     <color name="colorText">#f59b42</color>
     <color name="colorTextSecondary">#000000</color>
+    <color name="cardBackground">#FFF5F5F5</color>
+    <color name="colorPrimary">#f59b42</color>
 </resources>
